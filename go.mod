@@ -1,3 +1,3 @@
-module task
+module adventure
 
 go 1.22.2
